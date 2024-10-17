@@ -92,7 +92,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(0, 0, 0, 0.808);
+    background-color: rgba(5, 122, 122, 0.808);
     color: white;
     text-align: center;
 }
